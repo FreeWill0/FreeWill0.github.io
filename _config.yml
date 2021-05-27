@@ -89,12 +89,13 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "JieKun Liu's Website",
-        href: "http://jiekun.ml"
-    },{
-        title: "知乎：ssssssssam",
-        href: "https://www.zhihu.com/people/ssssssssam"
+   # {
+        #title: "JieKun Liu's Website",
+        #href: "http://jiekun.ml"
+   # },
+   {
+        title: "南京李志",
+        href: "https://liujiekun-ml.github.io/"
     }
 ]
 
