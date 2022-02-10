@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Practical MySQL Functions
-subtitle:   RiceQuant
+subtitle:   MySQL
 date:       2022-02-10
 author:     JieKun Liu
 header-img: img/the-first.png
