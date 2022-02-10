@@ -20,7 +20,7 @@ MySQL
     -- select abs(-2.2)
     -- select rand(0.9)
 
-- String FUnctions
+- String Functions
 
   - -- select length('sky')
     -- select upper('sky')
@@ -40,7 +40,7 @@ MySQL
 
     from customers*/
 
-- DateFunctions
+- Date Functions
 
   - -- select now(),curdate(),curtime()
     -- select year(now())
